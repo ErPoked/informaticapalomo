@@ -1,0 +1,56 @@
+body{
+    margin-bottom: 50px;
+}
+
+
+.fondo{
+    background-image: url(../recursos/ies.jpg);
+    height: 50vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+
+.titulo{
+    text-align:center;
+    color: #303030;
+margin-top:  20px; ;
+}
+
+
+.aclaraciones{
+    text-align:center;
+    color: #7e807f;
+margin-top:10px; ;
+
+}
+
+
+.parf{
+  text-align: center;
+  margin-left: 150px;
+  margin-right: 150px;
+
+}
+
+.tc{
+    color:white;
+margin-top:  20px; ;
+margin-left: 20;
+  margin-right: 20;
+  background-color: #303030;
+}
+
+.pr{
+    margin-left: 20px;
+  margin-right: 150px;
+}
+
+.titulob{  text-align:center;
+    color: white;
+margin-top:  20px; 
+background-color: #303030;
+
+}
