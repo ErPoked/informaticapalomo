@@ -1,0 +1,38 @@
+
+<rss version="2.0">
+<!-- Prologo -->
+<channel>
+  <title>Web Palomo</title>
+  <link>https://erpoked.github.io/informaticapalomo/index.html</link>
+  <description>Pagina web creada por Javier Chaparro con el fin de dar información basica de aquellas asignaturas tratadas en el 
+  ciclo formativo 1ºASIR.</description>
+  <copyright>Javier_Chaparro_Rivas-Web_Palomo</copyright>
+  <!--Dropdowns que llevan al resto de paginas-->
+  <item>
+    <title>XML y DTD</title>
+    <link>https://erpoked.github.io/informaticapalomo/pages/XML.html</link>
+    <description>Pagina donde se muestran explicaciones basicas de xml y , su diccionario, DTD.</description>
+    <category>Lenguaje de marcas</category>
+  
+  </item>
+  <item>
+    <title>HTML y CSS</title>
+    <link>https://erpoked.github.io/informaticapalomo/pages/HTML.html</link>
+    <description>Pagina donde se muestran definiciones basicas sobre html y css </description>
+    <category>Lenguaje de marcas</category>
+  </item>
+  <item>
+    <title>Sistema de archivos</title>
+    <link>https://erpoked.github.io/informaticapalomo/pages/sisar.html</link>
+    <description>En esta pagina se muestra informacion sobre los sistemas de archivos y los incovenientes que tuvieron</description>
+        <category>Gestion de base de datos</category>
+  </item>
+   <item>
+    <title>Modelos de bases de datos</title>
+    <link>https://erpoked.github.io/informaticapalomo/pages/ER.html</link>
+    <description>En esta pagina se muestra informacion sobre algunos de los modelos usados en el diseño de las bases de datos</description>
+    <category>Gestion de base de datos</category>
+  </item>
+</channel>
+
+</rss> 
