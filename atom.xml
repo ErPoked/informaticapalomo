@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xml:lang="es" xmlns="http://www.w3.org/2005/Atom" xml:base="https://erpoked.github.io/informaticapalomo/index.html">
+    <id>https://erpoked.github.io/informaticapalomo/index.html</id>
+    <title>Web Palomo</title>
+    <updated>2023-12-08T09:30:00+01:00</updated>
+    <link rel="alternate" href="https://erpoked.github.io/informaticapalomo/atom.xml"/>
+
+    <author>
+        <name>Javier Chaparro Rivas</name>
+        <email>javierchaparrorvs@gmail.com</email>
+    </author>
+    <category term="Conceptos informáticos"/>
+
+    <logo>mini.png</logo>
+
+    <link rel="self" href="https://erpoked.github.io/informaticapalomo/index.html"/>
+
+    <entry>
+        <id>https://erpoked.github.io/informaticapalomo/pages/sisar.html</id>
+        <title>Sistemas de archivos</title>
+        <updated>2023-12-08T10:00:00+01:00</updated>
+        <author>
+            <name>Javier Chaparro Rivas</name>
+            <email>javierchaparrorvs@gmail.com</email>
+        </author>
+        <summary>
+            En esta página encontrarás información sobre los sistemas de ficheros.
+        </summary>
+        <link rel="alternate" href="https://erpoked.github.io/informaticapalomo/pages/sisar.html"/>
+    </entry>
+
+    <entry>
+        <id>https://erpoked.github.io/informaticapalomo/pages/ER.html</id>
+        <title>Modelos de bases de datos</title>
+        <updated>2023-12-08T10:10:00+01:00</updated>
+        <author>
+            <name>Javier Chaparro Rivas</name>
+            <email>javierchaparrorvs@gmail.com</email>
+        </author>
+        <summary>
+            En esta página encontrarás información sobre algunos de los modelos implementados en las bases de datos.
+        </summary>
+        <link rel="alternate" href="https://erpoked.github.io/informaticapalomo/pages/ER.html"/>
+    </entry>
+
+    <entry>
+        <id>https://erpoked.github.io/informaticapalomo/pages/HTML.html</id>
+        <title>HTML y CSS</title>
+        <updated>2023-12-08T10:10:40+01:00</updated>
+        <author>
+            <name>Javier Chaparro Rivas</name>
+            <email>javierchaparrorvs@gmail.com</email>
+        </author>
+        <summary>
+            En esta página encontrarás información basica de html y css
+        </summary>
+        <link rel="alternate" href="https://erpoked.github.io/informaticapalomo/pages/HTML.html"/>
+    </entry>
+
+    <entry>
+        <id>https://erpoked.github.io/informaticapalomo/pages/XML.html</id>
+        <title>XML y DTD</title>
+        <updated>2023-12-08T10:11:00+01:00</updated>
+        <author>
+            <name>Javier Chaparro Rivas</name>
+            <email>javierchaparrorvs@gmail.com</email>
+        </author>
+        <summary>
+            En esta página encontrarás información basica de xml y como su sintaxis cobra significado con el dtd 
+        </summary>
+        <link rel="alternate" href="https://erpoked.github.io/informaticapalomo/pages/XML.html"/>
+    </entry>
+
+</feed>
+
